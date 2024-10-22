@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Public Sans", sans-serif;
+}
+
+#hero {
+  background-image: url(assets/bg-intro-desktop.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 100%;
+}
+
+#A1 img {
+  height: 242px;
+  width: 100%;
+}
+
+@media screen and (min-width: 968px) {
+  #A1 img {
+    height: 202px;
+  }
+}
