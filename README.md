@@ -16,7 +16,10 @@ This is a Clone project for the Landing page of EasyBank from FrontEnd Mentor Ch
 
 - Fully responsive
 - HamBurger Menu
-- Cross platform
+
+## Preview
+![EasyBank](https://github.com/user-attachments/assets/9ae7f510-40ca-46b4-a83b-7281c97d9cc4)
+
 
 
 ## Run Locally
